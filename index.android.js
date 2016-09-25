@@ -17,7 +17,7 @@ class react_native_for_source extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+         Sam Welcome to React Native!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
